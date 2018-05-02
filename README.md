@@ -1,2 +1,1 @@
-# xyz
-comparison between openMP and pthread in Linux.
+# Os-hash-sort
